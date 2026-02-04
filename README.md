@@ -1,1 +1,27 @@
-# github-practice-log
+# GitHub Practice Log
+
+GitHub와 Git 기본 사용법을 익히기 위한 연습용 저장소입니다.
+
+## 목적
+- GitHub 저장소 생성 연습
+- 커밋 습관 만들기
+- 기록을 통해 성장 과정 남기기
+
+## 구성
+- README.md : 프로젝트 소개
+- day01.md : 첫 날 기록
+- day02.md : 학습 로그
+- TODO.md  : 할 일 정리
+
+## 기록 규칙
+- 하루 최소 1커밋
+- 사소한 변경도 기록
+- 이해 안 되는 부분도 솔직히 작성
+
+## 사용 기술
+- GitHub
+- Markdown
+
+## 현재 상태
+- GitHub 초보자
+- Git 기본 개념 학습 중

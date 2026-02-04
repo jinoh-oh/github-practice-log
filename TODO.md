@@ -1,19 +1,19 @@
-# TODO
+# TODO (30-day commit routine)
 
-## 지금 할 일
-- [ ] day01.md 작성
-- [ ] README.md 정리
-- [ ] 커밋 메시지 연습
+## Daily (매일)
+- [ ] logs/dayXX.md 작성 (3줄)
+- [ ] TODO 체크 업데이트
 
-## 곧 할 일
-- [ ] day02.md 생성
-- [ ] Git 기본 개념 정리
-- [ ] TODO 항목 체크 완료하기
+## Weekly (매주)
+- [ ] week1-review.md 작성
+- [ ] week2-review.md 작성
+- [ ] week3-review.md 작성
+- [ ] week4-review.md 작성
 
-## 나중에 할 일
-- [ ] GitHub 잔디 꾸준히 채우기
-- [ ] 작은 프로젝트 하나 완성
-- [ ] README 개선
+## Questions (헷갈리는 점)
+- [ ] Commit vs Push 차이 정리
+- [ ] Branch 개념 한 줄로 정리
+- [ ] PR이 뭔지 한 줄로 정리
 
 ## 헷갈리는 것 / 질문
 - Git과 GitHub 차이
